@@ -2,7 +2,7 @@
 $plinkPath = "C:\script\plink.exe"
 
 # Define the SSH credentials
-$sshUsername = "root"
+$sshUsername = "Example"
 $sshPassword = "xxxxxxxx"
 
 # Define the path to the text file containing IP addresses
